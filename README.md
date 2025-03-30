@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Shveta Maini! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shveta-Maini&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=shveta-maini&color=blue&style=flat)
 
 💡 **Unraveling the power of data, one query at a time!**  
 
