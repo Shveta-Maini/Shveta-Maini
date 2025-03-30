@@ -1,6 +1,6 @@
-### Hi there, I'm Shveta Maini! 👋
+# <img src="https://github.com/Shveta-Maini/Shveta-Maini/blob/main/assets/h.gif " width="30" align="left" alt="Waving Hand"> Hi, I’m Shveta Maini <img src="https://github.com/Shveta-Maini/Shveta-Maini/blob/main/assets/facesmile.gif" width="30" align="centre" alt="Smiling Face">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shveta-maini&color=blue&style=flat)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=shveta-maini&color=00BFFF&style=social&label=PROFILE+VIEWS)
 
 💡 **Unraveling the power of data, one query at a time!**  
 
