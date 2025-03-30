@@ -1,5 +1,3 @@
-# Shveta-Maini
-
 ### Hi there, I'm Shveta Maini! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shveta-maini&color=blue&style=flat)
